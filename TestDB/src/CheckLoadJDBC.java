@@ -1,9 +1,5 @@
 
 public class CheckLoadJDBC {
-
-	/**
-	 * @param args
-	 */
 	public static void main(String[] args) throws
 			InstantiationException,IllegalAccessException {
 			String msg = "";
@@ -16,6 +12,4 @@ public class CheckLoadJDBC {
 			System.out.println(msg);
 			}
 
-	}
-
-
+}
